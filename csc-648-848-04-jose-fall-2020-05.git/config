@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:CSC-648-SFSU/csc-648-848-04-jose-fall-2020-05.git

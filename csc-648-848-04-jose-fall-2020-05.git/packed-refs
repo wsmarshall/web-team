@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+fde190c699dfc40f7386b6a139adac6aa7a651ef refs/heads/backend-development
+915dfc5b4c78ade9b882fa978a505a4ce7d0816c refs/heads/backend-development-m4
+e85f03027ef25ffdf65ac0515d157524d7b3d408 refs/heads/development
+361b35da969c933c8dbec4a97c9f159d81a4f91a refs/heads/frontend-development
+134dfd44129070036775d66dd55946c7e28d9cfb refs/heads/frontend-development-m4
+bd77fb0de712d58372ee1241acbaa1d70e85fc93 refs/heads/master
+dc0fbc88ff220e18b956a56ab914d2746e440b5d refs/heads/milestone-0
+e55f172fe634460a4aa9f1a526edd13736603ee7 refs/heads/milestone-1
+43d8e384bbf0519506e683c155edcc1cd30bd90f refs/heads/scafolding
+3461f62b0860d253e914e56794f07d50bc32d518 refs/heads/server-testing
+f9555bf35add5e3978fd1be217b4f59993428471 refs/heads/testing
